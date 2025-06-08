@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Linked Job Hider",
+    "version": "1.0",
+    "description": "Automatically hides dismissed jobs on LinkedIn.",
+    "content_scripts": [
+        {
+        "matches": ["https://www.linkedin.com/jobs/*"],
+        "js": ["content.js"]
+        }
+    ]
+  }
+  
