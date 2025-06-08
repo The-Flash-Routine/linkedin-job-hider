@@ -2,6 +2,8 @@
 
 A lightweight Chrome extension that automatically hides job posts you've dismissed (marked with an "X") on LinkedIn, keeping your job feed clean and focused.
 
+![Dismiss example](./dismiss-example.png)
+
 ## 🔧 Installation (Manual)
 
 1. Clone or download this repository and unzip it.
